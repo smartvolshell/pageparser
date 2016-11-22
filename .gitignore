@@ -15,3 +15,5 @@ out/
 .project
 .settings/
 .metadata/
+
+log/*
